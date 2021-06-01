@@ -15,4 +15,3 @@ export default class EyesOnMe extends Component {
     return <button onFocus={this.focusHandler} onBlur={this.blurHandler}>Eyes</button>
   }
 }
-
